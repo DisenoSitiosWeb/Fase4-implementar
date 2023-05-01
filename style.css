@@ -1,7 +1,7 @@
 * {
     text-align: center;
 }
-div {
+.div {
     padding: 20px 0;
     border-bottom: 10px solid #ccc;
 }
@@ -38,7 +38,7 @@ div {
     text-align: start;
     text-align: right;
     line-height: 1.7;
-    align-items: center;
+    text-align: right;
 }
 
 .footer {
